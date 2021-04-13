@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Pizzas",
+        "path": "pizzas"
+    },
+    {
+        "title": "Pizzas Doces",
+        "path": "pizzas-doces"
+    },
+    {
+        "title": "Bordas Recheadas",
+        "path": "bordas-recheadas"
+    },
+    {
+        "title": "Calzones",
+        "path": "calzones"
+    },
+    {
+        "title": "Pastel Simples",
+        "path": "pastel-simples"
+    },
+    {
+        "title": "Pastel Doce",
+        "path": "pastel-doce"
+    },
+    {
+        "title": "Pastel Mistos",
+        "path": "pastel-misto"
+    },
+    {
+        "title": "Pastel Especial",
+        "path": "pastel-especial"
+    },
+    {
+        "title": "Massas & Aperitivos",
+        "path": "massas-e-aperitivos"
+    },
+    {
+        "title": "Sanduíches",
+        "path": "sanduiches"
+    },
+    {
+        "title": "Milk Shake",
+        "path": "milk-shakes"
+    },
+    {
+        "title": "Sucos",
+        "path": "sucos"
+    },
+    {
+        "title": "Refrigerantes",
+        "path": "refrigerantes"
+    },
+    {
+        "title": "Açaí",
+        "path": "acai"
+    }
+]

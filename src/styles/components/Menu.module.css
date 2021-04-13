@@ -1,0 +1,88 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 0 1.5rem;
+}
+
+.sectionTitle{
+    font-size: 2.25rem;
+}
+
+.itemsList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style: none;
+    
+    padding-bottom: 1rem;
+}
+
+.itemsList li{
+    margin-top: .5rem;
+}
+
+.itemsList li h3{
+    font-size: 1.5rem;
+}
+
+.itemsList li p{
+    color: var(--white);
+}
+
+.itemsList .boxContainer{
+    display: flex;
+    align-items: center;    
+    justify-content: space-between;
+
+    margin: .5rem 0 1rem;
+    
+    background: var(--nav);
+    box-shadow: 0 4px 4px 0 var(--navside);
+    border-radius: 6px;
+}
+
+.itemsList .boxContainer .boxPrice{
+    display: grid;
+    flex-direction: column;
+    flex: 1;
+
+    padding: .5rem;
+
+    text-align: center;
+    font-size: .9rem;
+    font-weight: 700;
+
+    color: var(--white);    
+    border: 1px solid var(--border);
+}
+
+.itemsList .boxContainer .boxPrice:first-child{
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+.itemsList .boxContainer .boxPrice:last-child{
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.itemsList .boxContainer .boxPrice span{
+    color: var(--text);
+}
+
+.price{
+    width: 100%;
+
+    padding: 1rem .5rem;
+
+    text-align: center;
+    font-size: .9rem;
+    font-weight: 700;
+}
+
+.container img{
+    margin: 2rem auto 3rem;
+    width: 30vw;
+}
