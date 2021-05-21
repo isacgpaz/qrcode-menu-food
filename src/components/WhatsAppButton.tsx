@@ -1,7 +1,7 @@
 import * as FaIcons from 'react-icons/fa';
 import styles from '../styles/components/WhatsAppButton.module.css';
 
-export function WhatsAppButton() {
+export default function WhatsAppButton() {
     return (
         <>
             <div className={styles.container}>

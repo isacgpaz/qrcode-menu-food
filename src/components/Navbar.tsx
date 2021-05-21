@@ -25,21 +25,6 @@ export default function Navbar() {
                 </div>
             </header>
 
-            <div className={styles.hero}>
-                <img src="./images/logo.png" alt="" />
-                <div className={styles.social}>
-                    <a href="https://www.instagram.com/labellanr">
-                        <FaIcons.FaInstagram />
-                    </a>
-                    <a href="https://www.facebook.com/labellanr">
-                        <FaIcons.FaFacebookSquare />
-                    </a>
-                    <a href="https://www.api.whatsapp.com/send?phone=558899566908">
-                        <FaIcons.FaWhatsapp />
-                    </a>
-                </div>
-            </div>
-
             <nav className={isSidebarActive ? cx(styles.nav, styles.active) : styles.nav}>
                 <ul className={styles.navbarItems}>
                     <li className={styles.navbarToggle}>

@@ -20,3 +20,12 @@
 .container:hover{
     background: #21b858;
 }
+
+.container a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: inherit;
+    width: inherit;
+}

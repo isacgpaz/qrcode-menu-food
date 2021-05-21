@@ -1,13 +1,43 @@
 .container{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    gap: .15rem;
+}
 
-    padding: 0 1.5rem;
+.menuContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.titleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: .75rem 1.5rem;
 }
 
 .sectionTitle{
-    font-size: 2.25rem;
+    font-size: 1.5rem;
+}
+
+.titleContainer button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: none;
+    border-radius: 50%;
+    
+    background: var(--navside);
+    color: var(--text);
+
+    font-size: 1.25rem;
+    padding: .25rem;
+}
+
+.titleContainer button:hover{
+    background: var(--nav);
 }
 
 .itemsList{
@@ -15,16 +45,15 @@
     flex-direction: column;
     justify-content: center;
     list-style: none;
-    
-    padding-bottom: 1rem;
+    padding: 0 1.5rem;
+}
+
+.active{
+    display: none;
 }
 
 .itemsList li{
     margin-top: .5rem;
-}
-
-.itemsList li h3{
-    font-size: 1.5rem;
 }
 
 .itemsList li p{
@@ -54,7 +83,7 @@
     font-size: .9rem;
     font-weight: 700;
 
-    color: var(--white);    
+    color: var(--text);    
     border: 1px solid var(--border);
 }
 
@@ -69,7 +98,7 @@
 }
 
 .itemsList .boxContainer .boxPrice span{
-    color: var(--text);
+    color: var(--white);
 }
 
 .price{

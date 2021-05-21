@@ -1,0 +1,27 @@
+
+.hero{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: .5rem;
+  
+  height: 140px;
+
+  font-weight: 700;
+  color: var(--white);
+}
+
+.hero img{
+  width: 60vw;
+}
+
+.hero .social{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .75rem;
+
+  margin-top: .75rem;
+  font-size: 1.5rem;
+}
