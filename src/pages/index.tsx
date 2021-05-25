@@ -9,15 +9,21 @@ import styles from '../styles/pages/Home.module.css';
 
 export default function Home() {
   return (
-    <main className={styles.container}>
-      <Head>
-        <title>Menu Food</title>
-      </Head>
+    <>
+      <main className={styles.container}>
+        <Head>
+          <title>Menu Food</title>
+        </Head>
 
-      <Navbar />
-      <Hero />
-      <Menu />
-      <WhatsAppButton />
-    </main>
+        <Navbar />
+        <Hero />
+        <Menu />
+        <WhatsAppButton />
+
+      </main>
+      <div className={styles.mediaMessage}>
+        Não compatível com as dimensões de tela atuais.
+      </div>
+    </>
   )
 };

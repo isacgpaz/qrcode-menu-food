@@ -1,0 +1,13 @@
+.mediaMessage{
+  display: none;
+}
+
+@media (min-width: 840px) {
+  .container{
+    display: none;
+  }
+
+  .mediaMessage{
+    display: flex;
+  }
+}
