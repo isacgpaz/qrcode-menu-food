@@ -5,7 +5,7 @@ import styles from '../styles/components/Hero.module.css';
 export default function Hero() {
   return (
     <div className={styles.hero}>
-      <img src="./images/logo.png" alt="" />
+      <img src="../../images/logo.png" alt="" />
       <div className={styles.social}>
         <a href="https://www.instagram.com/labellanr">
           <FaIcons.FaInstagram />

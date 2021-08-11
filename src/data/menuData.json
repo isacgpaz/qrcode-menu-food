@@ -45,6 +45,11 @@
                 "price": [24, 27, 31, 35]
             },
             {
+                "title": "Marguerita",
+                "description": "Mussarela, Tomate Fatiado, Manjericão & Orégano.",
+                "price": [24, 27, 31, 35]
+            },
+            {
                 "title": "Carne de Sol I",
                 "description": "Mussarela, Carne de Sol, Cebola & Orégano.",
                 "price": [25, 29, 33, 37]
@@ -519,62 +524,62 @@
             {
                 "title": "Chocolate",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Morango",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Flocos",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },           
             {
                 "title": "Sonho de Valsa",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },            
             {
                 "title": "Baunilha",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },            
             {
                 "title": "Napolitano",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Mesclado",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Pavê",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Chiclete",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Maracujá",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Cappuccino",
                 "description": "",
-                "price": [10.5]
+                "price": [12]
             },
             {
                 "title": "Banana Split",
                 "description": "Banana Caramelizada, Cereja & 3 Bolas de Sorvete (à escolha).",
-                "price": [10.5]
+                "price": [12]
             }
         ]
     },
