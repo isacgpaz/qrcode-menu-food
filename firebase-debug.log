@@ -1,0 +1,25 @@
+[debug] [2021-08-22T02:43:44.262Z] ----------------------------------------------------------------------
+[debug] [2021-08-22T02:43:44.264Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\isacg\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-22T02:43:44.264Z] CLI Version:   9.16.0
+[debug] [2021-08-22T02:43:44.265Z] Platform:      win32
+[debug] [2021-08-22T02:43:44.265Z] Node Version:  v14.17.0
+[debug] [2021-08-22T02:43:44.266Z] Time:          Sat Aug 21 2021 23:43:44 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2021-08-22T02:43:44.266Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-22T02:43:44.330Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-22T02:43:44.330Z] > authorizing via signed-in user (isacgomesp@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\isacg\Documents\projects\qrcode-menu-food
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
