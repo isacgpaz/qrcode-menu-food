@@ -701,6 +701,11 @@
                 "price": [6]
             },
             {
+                "title": "Coca Cola 1L",
+                "description": "",
+                "price": [6.5]
+            },
+            {
                 "title": "Caçulinha Pepsi 200ml",
                 "description": "",
                 "price": [2]
@@ -713,7 +718,7 @@
             {
                 "title": "Coca Cola 1,5L",
                 "description": "",
-                "price": [6.5]
+                "price": [8]
             },
             {
                 "title": "Refrigerante 2L",
