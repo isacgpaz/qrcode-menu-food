@@ -1,193 +1,196 @@
-[
-    {
+[{
         "section": "Pizzas",
         "idToScroll": "pizzas",
         "sizes": ["Pequena", "Média", "Grande", "Família"],
-        "content": [
-            {
+        "content": [{
                 "title": "Mussarela",
                 "description": "Molho de Tomate, Mussarela & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Calabresa",
                 "description": "Mussarela, Calabresa, Cebola & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Baiana",
                 "description": "Molho de Tomate, Calabresa Moída, Pimenta, Ovo, Cebola & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 26, 32, 36]
             },
             {
                 "title": "Toscana",
                 "description": "Presunto com Cobertura de Mussarela & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Bauru",
                 "description": "Mussarela, Presunto, Tomate, Cebola, Parmesão & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Napolitana",
                 "description": "Mussarela, Tomate, Parmesão & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Tropical",
                 "description": "Mussarela, Milho, Ovo, Cebola & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Mista",
                 "description": "Mussarela, Presunto, Ovo, Cebola & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Marguerita",
                 "description": "Mussarela, Tomate Fatiado, Manjericão & Orégano.",
-                "price": [24, 27, 31, 35]
+                "price": [25, 28, 32, 36]
             },
             {
                 "title": "Carne de Sol I",
                 "description": "Mussarela, Carne de Sol, Cebola & Orégano.",
-                "price": [25, 29, 33, 37]
+                "price": [26, 30, 34, 38]
             },
             {
                 "title": "Carne de Sol II",
                 "description": "Mussarela, Carne de Sol, Catupiry, Azeitona & Orégano.",
-                "price": [26, 30, 34, 37]
+                "price": [27, 31, 35, 38]
             },
             {
                 "title": "Atum I",
                 "description": "Mussarela, Atum, Cebola & Orégano.",
-                "price": [24, 28, 32, 36]
+                "price": [25, 29, 33, 37]
             },
             {
                 "title": "Atum II",
                 "description": "Mussarela, Atum, Tomate, Parmesão, Azeitona & Orégano.",
-                "price": [25, 29, 33, 37]
+                "price": [26, 30, 34, 38]
             },
             {
                 "title": "Atum III",
                 "description": "Mussarela, Atum, Ovo, Catupiry, Azeitona & Orégano.",
-                "price": [26, 30, 34, 38]
+                "price": [27, 31, 35, 39]
             },
             {
                 "title": "Francesa",
                 "description": "Mussarela, Calabresa, Milho, Ovo, Tomate, Azeitona & Orégano.",
-                "price": [24, 27, 32, 36]
+                "price": [25, 28, 33, 37]
             },
             {
                 "title": "Calábria",
                 "description": "Molho de Tomate, Calabresa, Parmesão, Azeitona & Orégano.",
-                "price": [25, 28, 33, 36]
+                "price": [26, 29, 34, 37]
             },
             {
                 "title": "Milho",
                 "description": "Milho com Cobertura de Mussarela, Azeitona & Orégano.",
-                "price": [24, 28, 33, 36]
+                "price": [25, 29, 34, 37]
             },
             {
                 "title": "Pepperoni",
                 "description": "Mussarela, Pepperoni & Orégano.",
-                "price": [29, 33, 38, 42]
+                "price": [30, 34, 39, 43]
             },
             {
                 "title": "Camarão",
                 "description": "Mussarela, Camarão, Catupiry & Orégano.",
-                "price": [29, 33, 38, 42]
+                "price": [30, 34, 39, 43]
             },
             {
                 "title": "Bacon",
                 "description": "Mussarela, Bacon, Cebola, Azeitona & Orégano.",
-                "price": [24, 28, 33, 38]
+                "price": [25, 29, 34, 39]
             },
             {
                 "title": "Brasileira",
                 "description": "Mussarela, Calabresa, Bacon, Cebola & Orégano.",
-                "price": [25, 30, 34, 39]
+                "price": [26, 31, 35, 40]
             },
             {
                 "title": "Siciliana",
                 "description": "Mussarela, Bacon, Champignon, Azeitona & Orégano.",
-                "price": [25, 30, 34, 39]
+                "price": [26, 31, 35, 40]
             },
             {
                 "title": "Americana",
                 "description": "Mussarela, Frango, Bacon & Orégano.",
-                "price": [25, 30, 34, 38]
+                "price": [26, 31, 35, 39]
             },
             {
                 "title": "Do Pizzaiolo",
                 "description": "Mussarela, Presunto, Frango, Tomate, Azeitona & Orégano.",
-                "price": [25, 28, 33, 37]
+                "price": [26, 29, 34, 38]
             },
             {
                 "title": "Portuguesa",
                 "description": "Mussarela, Presunto, Milho, Ervilha, Ovo, Tomate & Orégano.",
-                "price": [25, 28, 32, 36]
+                "price": [26, 29, 33, 37]
             },
             {
                 "title": "Frango",
                 "description": "Mussarela, Frango, Milho, Ervilha & Orégano.",
-                "price": [25, 28, 32, 36]
+                "price": [26, 29, 33, 37]
             },
             {
                 "title": "Cheddar",
                 "description": "Mussarela, Frango, Cheddar & Orégano.",
-                "price": [26, 30, 34, 38]
+                "price": [27, 31, 35, 39]
             },
             {
                 "title": "Frango com Catupiry",
                 "description": "Mussarela, Frango, Milho, Catupiry & Orégano.",
-                "price": [26, 30, 34, 38]
+                "price": [27, 31, 35, 39]
             },
             {
                 "title": "Romana",
                 "description": "Carne Moída, Frango Desfiado com Cobertura de Mussarela & Orégano.",
-                "price": [25, 28, 31, 36]
+                "price": [26, 29, 32, 37]
             },
             {
                 "title": "La Bela",
                 "description": "Mussarela, Presunto, Ovo, Catupiry, Azeitona & Orégano.",
-                "price": [25, 30, 34, 38]
+                "price": [26, 31, 35, 39]
             },
             {
                 "title": "Palmito",
                 "description": "Mussarela, Palmito, Catupiry & Orégano.",
-                "price": [26, 31, 35, 36]
+                "price": [27, 32, 36, 37]
             },
             {
                 "title": "Primavera",
                 "description": "Mussarela, Presunto, Palmito, Ovo, Ervilha & Orégano.",
-                "price": [26, 31, 35, 39]
+                "price": [27, 32, 36, 40]
             },
             {
                 "title": "Moda da Casa",
                 "description": "Mussarela, Presunto, Calabresa, Milho, Ovo, Frango & Orégano.",
-                "price": [26, 31, 35, 39]
+                "price": [27, 32, 36, 40]
             },
             {
                 "title": "Dinápoli",
                 "description": "Mussarela, Calabresa, Catupiry, Azeitona & Orégano.",
-                "price": [25, 29, 33, 38]
+                "price": [26, 30, 34, 39]
             },
             {
                 "title": "Três Queijos",
                 "description": "Mussarela, Catupiry, Parmesão & Orégano.",
-                "price": [25, 29, 33, 37]
+                "price": [27, 30, 34, 38]
             },
             {
                 "title": "Quatro Queijos",
                 "description": "Mussarela, Catupiry, Provolone, Gorgonzola & Orégano.",
-                "price": [26, 30, 35, 39]
+                "price": [27, 31, 36, 40]
             },
             {
                 "title": "Cinco Queijos",
                 "description": "Mussarela, Catupiry, Provolone, Gorgonzola, Cheddar & Orégano.",
-                "price": [27, 31, 36, 40]
+                "price": [28, 32, 37, 41]
+            },
+            {
+                "title": "Strognoff",
+                "description": "Mussarela, Strogonoff, Milho & Orégano.",
+                "price": [26, 29, 33, 37]
             }
         ]
     },
@@ -195,16 +198,15 @@
         "section": "Pizzas Doces",
         "idToScroll": "pizzas-doces",
         "sizes": ["Pequena", "Média", "Grande", "Família"],
-        "content": [
-            {
+        "content": [{
                 "title": "Brigadeiro",
                 "description": "Chocolate & Granulado.",
-                "price": [23.50, 27.50, 36, 40.50]
+                "price": [24.50, 28.50, 37, 41.50]
             },
             {
                 "title": "Banana",
                 "description": "Mussarela, Banana & Canela com Açúcar.",
-                "price": [23.50, 26.50, 31.50, 35.50]
+                "price": [24.50, 27.50, 32.50, 36.50]
             }
         ]
     },
@@ -212,8 +214,7 @@
         "section": "Bordas Recheadas",
         "idToScroll": "bordas-recheadas",
         "sizes": ["Média", "Grande", "Família"],
-        "content": [
-            {
+        "content": [{
                 "title": "Catupiry",
                 "description": "",
                 "price": [10, 11, 12]
@@ -234,21 +235,20 @@
         "section": "Calzones",
         "idToScroll": "calzones",
         "sizes": ["Médio", "Grande"],
-        "content": [
-            {
+        "content": [{
                 "title": "À Portuguesa",
                 "description": "Mussarela, Presunto, Milho, Ervilha, Ovo, Tomate & Orégano.",
-                "price": [28, 30]
+                "price": [29, 31]
             },
             {
                 "title": "Caipira",
                 "description": "Mussarela, Frango, Milho, Catupiry & Orégano.",
-                "price": [28, 30]
+                "price": [29, 31]
             },
             {
                 "title": "À Moda",
                 "description": "Mussarela, Presunto, Calabresa, Frango, Milho, Ovo, & Orégano.",
-                "price": [29, 31]
+                "price": [30, 32]
             }
         ]
     },
@@ -256,35 +256,34 @@
         "section": "Pastel Simples",
         "idToScroll": "pastel-simples",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Frango",
                 "description": "",
-                "price": [7.8]
+                "price": [8.3]
             },
             {
                 "title": "Carne",
                 "description": "",
-                "price": [7.8]
+                "price": [8.3]
             },
             {
                 "title": "Queijo",
                 "description": "",
-                "price": [7.8]
-            },            
+                "price": [8.3]
+            },
             {
                 "title": "Presunto",
                 "description": "",
-                "price": [7.8]
-            },            {
+                "price": [8.3]
+            }, {
                 "title": "Vento",
                 "description": "",
-                "price": [6]
-            },            
+                "price": [6.5]
+            },
             {
                 "title": "Pastelzinho",
                 "description": "12 Unidades.",
-                "price": [12.5]
+                "price": [13]
             }
         ]
     },
@@ -292,21 +291,20 @@
         "section": "Pastel Doce",
         "idToScroll": "pastel-doce",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Banana",
                 "description": "Queijo, Banana, Canela & Açúcar.",
-                "price": [8.5]
+                "price": [9]
             },
             {
                 "title": "Romeu & Julieta",
                 "description": "Queijo com Goiabada.",
-                "price": [8.5]
+                "price": [9]
             },
             {
                 "title": "Chocolate",
                 "description": "",
-                "price": [8.5]
+                "price": [9]
             }
         ]
     },
@@ -314,39 +312,38 @@
         "section": "Pastel Misto",
         "idToScroll": "pastel-misto",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Calabresa & Queijo",
                 "description": "",
-                "price": [9.3]
+                "price": [9.8]
             },
             {
                 "title": "Carne Moída, Ovo & Azeitona",
                 "description": "",
-                "price": [9.3]
+                "price": [9.8]
             },
             {
                 "title": "Frango, Milho, Ervilha & Orégano",
                 "description": "",
-                "price": [9.3]
-            },            {
+                "price": [9.8]
+            }, {
                 "title": "Carne, Frango, Milho & Orégano",
                 "description": "",
-                "price": [9.3]
-            },            {
+                "price": [9.8]
+            }, {
                 "title": "Carne & Queijo",
                 "description": "",
-                "price": [9.3]
-            },            
+                "price": [9.8]
+            },
             {
                 "title": "Frango & Queijo",
                 "description": "",
-                "price": [9.3]
+                "price": [9.8]
             },
             {
                 "title": "Presunto & Queijo",
                 "description": "",
-                "price": [9.3]
+                "price": [9.8]
             }
         ]
     },
@@ -354,71 +351,70 @@
         "section": "Pastel Especial",
         "idToScroll": "pastel-especial",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Marguerita",
                 "description": "Queijo, Tomate & Manjericão.",
-                "price": [9]
+                "price": [9.5]
             },
             {
                 "title": "Pizza",
                 "description": "Queijo, Presunto, Tomate, Azeitona & Orégano.",
-                "price": [9.5]
+                "price": [10]
             },
             {
                 "title": "Cheddar",
                 "description": "Frango & Cheddar.",
-                "price": [9.5]
+                "price": [10]
             },
             {
                 "title": "Atum",
                 "description": "Queijo, Atum & Cebola.",
-                "price": [9.5]
+                "price": [10]
             },
             {
                 "title": "Palmito",
                 "description": "Quejo, Palmito, Catupiry & Azeitona.",
-                "price": [11.25]
+                "price": [11.75]
             },
             {
                 "title": "Carne de Sol",
                 "description": "Queijo, Carne de Sol & Cebola.",
-                "price": [10]
+                "price": [10.5]
             },
             {
                 "title": "Bacon",
                 "description": "Queijo, Bacon, Cebola & Azeitona.",
-                "price": [10]
+                "price": [10.5]
             },
             {
                 "title": "Champignon",
                 "description": "Queijo, Bacon, Champignon, Azeitona & Orégano.",
-                "price": [10.5]
+                "price": [11]
             },
             {
                 "title": "À Moda",
                 "description": "Queijo, Presunto, Tomate, Azeitona & Orégano.",
-                "price": [12.5]
+                "price": [13]
             },
             {
                 "title": "Strogonoff",
                 "description": "Queijo & Strogonoff de Frango.",
-                "price": [9.5]
+                "price": [10]
             },
             {
                 "title": "Quatro Queijos",
                 "description": "Queijo, Provolone, Gorgonzola & Catupiry.",
-                "price": [10.5]
+                "price": [11]
             },
             {
                 "title": "Camarão",
                 "description": "Mussarela, Camarão & Catupiry.",
-                "price": [10.5]
+                "price": [11]
             },
             {
                 "title": "Frango com Catupiry",
                 "description": "",
-                "price": [9.5]
+                "price": [10]
             }
         ]
     },
@@ -426,8 +422,7 @@
         "section": "Massas & Aperitivos",
         "idToScroll": "massas-e-aperitivos",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Batata Frita",
                 "description": "",
                 "price": [13.50]
@@ -443,76 +438,75 @@
         "section": "Sanduíches",
         "idToScroll": "sanduiches",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Misto",
                 "description": "Presunto, Queijo, Tomate & Alface.",
-                "price": [11]
+                "price": [12]
             },
             {
                 "title": "X-Burguer",
                 "description": "Hambúrguer, Queijo, Batata Palha, Cebola, Tomate & Alface.",
-                "price": [12]
+                "price": [13]
             },
             {
                 "title": "X-Bacon",
                 "description": "Hambúrguer, Bacon, Queijo, Batata Palha, Tomate & Alface.",
-                "price": [13]
+                "price": [14]
             },
             {
                 "title": "X-Frango I",
                 "description": "Filé de Frango, Queijo, Batata Palha, Tomate & Alface.",
-                "price": [13]
+                "price": [14]
             },
             {
                 "title": "X-Frango II",
                 "description": "Filé de Frango, Queijo, Bacon, Batata Palha, Tomate & Alface.",
-                "price": [14]
+                "price": [15]
             },
             {
                 "title": "X-Calabresa",
                 "description": "Queijo, Calabresa, Ovo, Batata Palha, Tomate & Alface.",
-                "price": [13]
+                "price": [14]
             },
             {
                 "title": "X-Salada",
                 "description": "Queijo, Hambúrguer, Presunto, Batata Palha, Tomate & Alface.",
-                "price": [13]
+                "price": [14]
             },
             {
                 "title": "Frango com Catupiry",
                 "description": "Queijo, Frango Desfiado, Catupiry, Batata Palha, Tomate & Alface.",
-                "price": [13.5]
+                "price": [14.5]
             },
             {
                 "title": "Americano",
                 "description": "Queijo, Hambúrguer, Calabresa, Batata Palham Tomate & Alface.",
-                "price": [14]
+                "price": [15]
             },
             {
                 "title": "Double La Bella",
                 "description": "2 Hambúrgueres, 2 Queijos, Presunto, Calabresa, Tomate & Alface.",
-                "price": [15]
+                "price": [16]
             },
             {
                 "title": "Carne de Sol",
                 "description": "Queijo, Carne de Sol, Catupiry, Batata Palha, Tomate & Alface.",
-                "price": [14]
+                "price": [15]
             },
             {
                 "title": "Bauru",
                 "description": "Queijo, Hambúrguer, Ovo, Batata Palha, Tomate & Alface.",
-                "price": [14]
+                "price": [15]
             },
             {
                 "title": "Beirute",
                 "description": "Rosbife, Ovo, Cheddar, Catupiry, Maionese, Tomate & Alface",
-                "price": [16]
+                "price": [17]
             },
             {
                 "title": "Sanduíche Natural",
                 "description": "Frango & Atum",
-                "price": [12]
+                "price": [13]
             }
         ]
     },
@@ -520,8 +514,7 @@
         "section": "Milk Shake",
         "idToScroll": "milk-shakes",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Chocolate",
                 "description": "",
                 "price": [12]
@@ -535,17 +528,17 @@
                 "title": "Flocos",
                 "description": "",
                 "price": [12]
-            },           
+            },
             {
                 "title": "Sonho de Valsa",
                 "description": "",
                 "price": [12]
-            },            
+            },
             {
                 "title": "Baunilha",
                 "description": "",
                 "price": [12]
-            },            
+            },
             {
                 "title": "Napolitano",
                 "description": "",
@@ -586,87 +579,86 @@
     {
         "section": "Sucos",
         "idToScroll": "sucos",
-        "sizes": [],
-        "content": [
-            {
+        "sizes": ["Copo", "Jarra 750ml", "Jarra 1L", "Jarra 1,5L"],
+        "content": [{
                 "title": "Abacaxi",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Acerola",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Ameixa",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Açaí",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Cajá",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Goiaba",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Graviola",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Manga",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Maracujá",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Morango",
                 "description": "",
-                "price": [5]
+                "price": [5, 12, 15, 22.5]
             },
             {
                 "title": "Laranja",
                 "description": "",
-                "price": [5.5]
+                "price": [5.5, 13, 17, 25]
             },
             {
                 "title": "Suco Verde",
                 "description": "",
-                "price": [5.5]
+                "price": [5.5, 13, 17, 25]
             },
             {
                 "title": "Abacaxi com Hortelã",
                 "description": "",
-                "price": [5.5]
+                "price": [5.5, 13, 17, 25]
             },
             {
                 "title": "Acerola com Mamão",
                 "description": "",
-                "price": [5.5]
+                "price": [5.5, 13, 17, 25]
             },
             {
                 "title": "Laranja com Acerola",
                 "description": "",
-                "price": [5.5]
+                "price": [5.5, 13, 17, 25]
             },
             {
                 "title": "Maracujá com Hortelã",
                 "description": "",
-                "price": [5.5]
+                "price": [5.5, 13, 17, 25]
             }
         ]
     },
@@ -674,8 +666,7 @@
         "section": "Refigerantes",
         "idToScroll": "refrigerantes",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "Refrigerante NS",
                 "description": "",
                 "price": [2]
@@ -761,8 +752,7 @@
         "section": "Açai",
         "idToScroll": "acai",
         "sizes": [],
-        "content": [
-            {
+        "content": [{
                 "title": "C/ Banana, Amendoim & Granola",
                 "description": "",
                 "price": [12]
